@@ -9,8 +9,7 @@ I'm a Computer Science student at **UT San Antonio** with a passion for programm
 
 ## 🚀 Featured Projects
 - [Shopping-list-manager](https://github.com/Canadian599xx/Shopping-list-manager): A handy tool for organizing your grocery shopping, built in Python.
-- [Insult-Your-Browser](https://github.com/Canadian599xx/Insult-Your-Browser): A fun project to test your browser's limits!
-- [GWR-2023-MasterCode](https://github.com/Canadian599xx/GWR-2023-MasterCode): Collaborative code for the GWR 2023 event.
+
 
 ## 🤖 Fun Facts
 - I love modding Nintendo consoles and Raspberry Pi's.
