@@ -12,7 +12,7 @@ I'm a Computer Science student at **UT San Antonio** with a passion for programm
 
 
 ## 🤖 Fun Facts
-- I love modding Nintendo consoles and Raspberry Pi's.
+- I love modding Nintendo consoles and working with Raspberry Pi's.
 - Always looking for new tech projects and challenges!
 
 ## 📫 Connect With Me
