@@ -9,6 +9,7 @@ I'm a Computer Science student at **UT San Antonio** with a passion for programm
 
 ## 🚀 Featured Projects
 - [Shopping-list-manager](https://github.com/Canadian599xx/Shopping-list-manager): A handy tool for organizing your grocery shopping, built in Java.
+- [Food-Finder] (Coming Soon!)
 
 
 ## 🤖 Fun Facts
