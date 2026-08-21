@@ -4,7 +4,7 @@
 I'm a Computer Science student at **UT San Antonio** with a passion for programming and electronics. Whether I'm building Python and Java projects or tinkering with Raspberry Pi's and modding Nintendo consoles, I love tinkering!
 
 ## 🛠️ Top Skills
-- **Languages:** Python, Java
+- **Languages:** Python, Java, C
 - **Interests:** Programming, Electronics, Console Modding, Raspberry Pi
 
 ## 🚀 Featured Projects
