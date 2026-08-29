@@ -9,7 +9,8 @@ I'm a Computer Science student at **UT San Antonio** with a passion for programm
 
 ## 🚀 Featured Projects
 - [Shopping-list-manager](https://github.com/Canadian599xx/Shopping-list-manager): A handy tool for organizing your grocery shopping, built in Java.
-- [Food-Finder] (Coming Soon!)
+- [stackmaster-vm](https://github.com/Canadian599xx/stackmaster-vm): A simulation of a simple CPU instruction system using C
+- [homelab-configs](https://github.com/Canadian599xx/homelab-configs): A collection of dockerfile's and yaml scripts used to set up my homeserver
 
 
 ## 🤖 Fun Facts
