@@ -9,7 +9,6 @@ I'm a Computer Science student at **UT San Antonio** with a passion for programm
 
 ## 🚀 Featured Projects
 - [Blueprint](https://github.com/William-Chen07/Blueprint): A project manager and mentor for students who want to learn how to make stuff.
-- [Shopping-list-manager](https://github.com/Canadian599xx/Shopping-list-manager): A handy tool for organizing your grocery shopping, built in Java.
 - [stackmaster-vm](https://github.com/Canadian599xx/stackmaster-vm): A simulation of a simple CPU instruction system using C.
 - [homelab-configs](https://github.com/Canadian599xx/homelab-configs): A collection of dockerfile's and yaml scripts used to set up my homeserver.
 
