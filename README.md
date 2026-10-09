@@ -4,8 +4,8 @@
 I'm a Computer Science student at **UT San Antonio** with a passion for programming and electronics. Whether I'm building Python and Java projects or tinkering with Raspberry Pi's and modding Nintendo consoles, I love tinkering!
 
 ## 🛠️ Top Skills
-- **Languages:** Python, Java, C
-- **Interests:** Programming, Electronics, Console Modding, Raspberry Pi
+- **Languages:** Python, Java, C, JavaScript / TypeScript
+- **Interests:** Programming, Electronics, Console Modding, Raspberry Pi, Homelabbing 
 
 ## 🚀 Featured Projects
 - [Blueprint](https://github.com/William-Chen07/Blueprint): A project manager and mentor for students who want to learn how to make stuff.
