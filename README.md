@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nolan%20Chatten&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%40%20UTSA%20%7C%20Cybersecurity%20%26%20Network%20Engineering&descSize=18&descAlignY=60" alt="Nolan Chatten banner" />
 
-<a href="https://github.com/Canadian599xx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Defending+networks+in+CCDC+competitions;Building+and+breaking+things+in+my+homelab;Modding+consoles+%26+training+game-playing+bots;Always+shipping+the+next+side+project" alt="Typing animation" /></a>
+<a href="https://github.com/Canadian599xx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+and+breaking+things+in+my+homelab;Modding+consoles+%26+training+game-playing+bots;Always+shipping+the+next+side+project" alt="Typing animation" /></a>
 
 <br/>
 
